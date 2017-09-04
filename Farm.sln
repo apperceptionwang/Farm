@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farm", "Farm\Farm.csproj", "{D86B5AE1-B6AC-4362-9111-AF0C73C94B4C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Farm1.0", "..\Farm1.0\Farm1.0.vdproj", "{4499B7ED-9EC5-4869-BAE2-B2C367E5DD01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D86B5AE1-B6AC-4362-9111-AF0C73C94B4C}.Debug|x86.ActiveCfg = Debug|x86
+		{D86B5AE1-B6AC-4362-9111-AF0C73C94B4C}.Debug|x86.Build.0 = Debug|x86
+		{D86B5AE1-B6AC-4362-9111-AF0C73C94B4C}.Release|x86.ActiveCfg = Release|x86
+		{D86B5AE1-B6AC-4362-9111-AF0C73C94B4C}.Release|x86.Build.0 = Release|x86
+		{4499B7ED-9EC5-4869-BAE2-B2C367E5DD01}.Debug|x86.ActiveCfg = Debug
+		{4499B7ED-9EC5-4869-BAE2-B2C367E5DD01}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

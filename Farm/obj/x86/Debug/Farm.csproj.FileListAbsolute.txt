@@ -1,0 +1,126 @@
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\bin\Debug\Farm.exe
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\bin\Debug\Farm.pdb
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\Farm.Properties.Resources.resources
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\Farm.exe
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\Farm.pdb
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\Farm.Login.resources
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\Farm.MyFarm.resources
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\Farm.Select_Player.resources
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\bin\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\bin\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\Interop.WMPLib.dll
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\Farm.csproj.ResolveComReference.cache
+H:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Interop.WMPLib.dll
+H:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\AxInterop.WMPLib.dll
+H:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.csproj.ResolveComReference.cache
+H:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.exe
+H:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.pdb
+H:\C#实训\C#实训\Farm\Farm\bin\Debug\Farm.exe
+H:\C#实训\C#实训\Farm\Farm\bin\Debug\Farm.pdb
+H:\C#实训\C#实训\Farm\Farm\bin\Debug\Interop.WMPLib.dll
+H:\C#实训\C#实训\Farm\Farm\bin\Debug\AxInterop.WMPLib.dll
+H:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.MyFarm.resources
+H:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.Login.resources
+H:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.Properties.Resources.resources
+H:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.Select_Player.resources
+H:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.exe
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.pdb
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\bin\Debug\Farm.exe
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\bin\Debug\Farm.pdb
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.MyFarm.resources
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.Login.resources
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.Select_Player.resources
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\bin\Debug\Farm.mdf
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\bin\Debug\Farm_log.ldf
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\bin\Debug\Farm.exe.config
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\bin\Debug\Farm.exe.config
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\Farm.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\Farm.exe
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\bin\Debug\Farm.mdf
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\bin\Debug\Farm_log.ldf
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\bin\Debug\Farm.exe
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\bin\Debug\Farm.pdb
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\Farm.MyFarm.resources
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\Farm.Login.resources
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\Farm.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\Farm.Select_Player.resources
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\Farm.pdb
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\Farm.Store.resources
+C:\Users\Administrator\Desktop\C#实训1\Farm\Farm\obj\x86\Debug\Farm.Sow.resources
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.Sow.resources
+C:\Users\Administrator\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.Store.resources
+D:\C#实训\C#实训\Farm\Farm\bin\Debug\Farm.exe.config
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Interop.WMPLib.dll
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.csproj.ResolveComReference.cache
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.exe
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.pdb
+D:\C#实训\C#实训\Farm\Farm\bin\Debug\Farm.mdf
+D:\C#实训\C#实训\Farm\Farm\bin\Debug\Farm_log.ldf
+D:\C#实训\C#实训\Farm\Farm\bin\Debug\Farm.exe
+D:\C#实训\C#实训\Farm\Farm\bin\Debug\Farm.pdb
+D:\C#实训\C#实训\Farm\Farm\bin\Debug\Interop.WMPLib.dll
+D:\C#实训\C#实训\Farm\Farm\bin\Debug\AxInterop.WMPLib.dll
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.MyFarm.resources
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.Login.resources
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.Properties.Resources.resources
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.Select_Player.resources
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.Sow.resources
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.Store.resources
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C#实训\C#实训\Farm\Farm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\C#实训\C#实训\Farm\Farm\bin\Debug\Farm.exe.config
+C:\Users\Administrator\Desktop\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\C#实训\C#实训\Farm\Farm\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.exe
+C:\Users\Administrator\Desktop\C#实训\C#实训\Farm\Farm\obj\x86\Debug\Farm.pdb
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\bin\Debug\Farm.exe.config
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\bin\Debug\Farm.mdf
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\bin\Debug\Farm_log.ldf
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\Farm.Sow.resources
+C:\Documents and Settings\sxy\桌面\C#实训\Farm\Farm\obj\x86\Debug\Farm.Store.resources
+C:\Users\1234\Desktop\C#实训\Farm\Farm\bin\Debug\Farm.exe.config
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.csproj.ResolveComReference.cache
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.exe
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.pdb
+C:\Users\1234\Desktop\C#实训\Farm\Farm\bin\Debug\Farm.mdf
+C:\Users\1234\Desktop\C#实训\Farm\Farm\bin\Debug\Farm_log.ldf
+C:\Users\1234\Desktop\C#实训\Farm\Farm\bin\Debug\Farm.exe
+C:\Users\1234\Desktop\C#实训\Farm\Farm\bin\Debug\Farm.pdb
+C:\Users\1234\Desktop\C#实训\Farm\Farm\bin\Debug\Interop.WMPLib.dll
+C:\Users\1234\Desktop\C#实训\Farm\Farm\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.MyFarm.resources
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.Login.resources
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.Properties.Resources.resources
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.Select_Player.resources
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.Sow.resources
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.Store.resources
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.csproj.GenerateResource.Cache
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.S_Shop.resources
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.Bag.resources
+C:\Users\1234\Desktop\C#实训\Farm\Farm\obj\x86\Debug\Farm.csprojResolveAssemblyReference.cache
